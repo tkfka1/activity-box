@@ -14,6 +14,7 @@
 
 ### Prep work
 
+
 1. Create a new public GitHub Gist (https://gist.github.com/)
 2. [Create a token](https://github.com/settings/tokens/new) with the `gist` scope and copy it. The `GITHUB_TOKEN` that comes with GitHub Actions cannot currently use the Gist API.
 
